@@ -1,1 +1,4 @@
-console.log("hola");
+ const hola = () => {
+
+	console.log("hola");
+}
